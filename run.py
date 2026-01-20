@@ -1,6 +1,3 @@
 print("Runnnnn")
 
 bbb
-
-
-yyyiqfqegfi
